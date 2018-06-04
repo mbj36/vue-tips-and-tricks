@@ -1,2 +1,9 @@
 # vue-tips-and-tricks
-All the tips and tricks related to Vue ecosystem
+
+A compilation of Vue Patterns, techniques, tips and tricks.
+
+- Design Patterns and techniques
+
+- Performance tips
+
+- Several Gotchas
