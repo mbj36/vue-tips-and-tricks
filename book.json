@@ -1,0 +1,15 @@
+{
+  "gitbook": ">1.0.0",
+  "plugins": [
+    "edit-link"
+  ],
+  "pluginsConfig": {
+    "edit-link": {
+      "base": "https://github.com/mbj36/vue-tips-and-tricks/blob/master",
+      "label": "Edit this page"
+    },
+    "github": {
+      "url": "https://github.com/mbj36/vue-tips-and-tricks"
+    }
+  }
+}
